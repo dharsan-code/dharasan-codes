@@ -1,7 +1,7 @@
 ## Hi there, I'm [Dharsan B](https://www.linkedin.com/in/dharsan-b-121233233/) 👋
 
 ## About Me <br />
-💻 Full-Stack Developerskilled in React.js, Node.js, MongoDB, JavaScript, HTML, CSS, Bootstrap, and Tailwind CSS <br />
+💻 Full-Stack Developer skilled in React.js, Node.js, MongoDB, JavaScript, HTML, CSS, Bootstrap, and Tailwind CSS <br />
 💡 Love solving problems and turning ideas into simple, effective solutions <br />
 🚀 Always learning and exploring new technologies in web development <br />
 ♟️ Enjoy playing chess and reading books in my free time <br />
