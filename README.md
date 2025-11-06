@@ -5,6 +5,7 @@
 💡 Love solving problems and turning ideas into simple, effective solutions <br />
 🚀 Always learning and exploring new technologies in web development <br />
 ♟️ Enjoy playing chess and reading books in my free time <br />
+📧 Let’s Connect: dharsan2226@gmail.com – Open to new opportunities and collaborations! <br />
 
 ## My Tech Stack <br />
 Frontend: HTML | CSS | Bootstrap | Tailwind CSS | JavaScript | React.js <br />
