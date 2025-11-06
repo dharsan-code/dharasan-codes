@@ -1,21 +1,19 @@
-## Hi there, I'm Dharsan B 👋
+## Hi there, I'm [Dharsan B](https://www.linkedin.com/in/dharsan-b-121233233/) 👋
 
-About Me <br />
-<hr />
+## About Me <br />
 💻 Full-Stack Developerskilled in React.js, Node.js, MongoDB, JavaScript, HTML, CSS, Bootstrap, and Tailwind CSS <br />
 💡 Love solving problems and turning ideas into simple, effective solutions <br />
 🚀 Always learning and exploring new technologies in web development <br />
 ♟️ Enjoy playing chess and reading books in my free time <br />
 
-My Tech Stack <br />
-<hr />
+## My Tech Stack <br />
 Frontend: HTML | CSS | Bootstrap | Tailwind CSS | JavaScript | React.js <br />
 Backend: Node.js | Express.js <br />
 Database: MongoDB <br />
 Version Control: Git | GitHub <br />
 
-[LinkedIn](https://www.linkedin.com/in/dharsan-b-121233233/)
-[Email Me](mailto:dharsan2226@gmail.com)
+<a href="https://www.linkedin.com/in/dharsan-b-121233233/" target="_blank">LinkedIn</a>  
+<a href="mailto:dharsan2226@gmail.com" target="_blank">Email Me</a>
 
 <!--
 **dharasan-codes/dharasan-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
